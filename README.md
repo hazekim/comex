@@ -31,3 +31,6 @@ Portfolio Usage: This repository is intended for portfolio demonstration. The co
 
 ✍️ Author
 Hyungju Kim
+
+🎬 Presentation video available here
+https://youtu.be/sI3EwgSeQIw?si=VnP0jbB5aQiwO0Iu
